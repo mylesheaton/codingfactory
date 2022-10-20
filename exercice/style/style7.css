@@ -1,0 +1,74 @@
+#v
+{
+    vertical-align: middle;
+}
+.haut
+{
+    background-color: red;
+    height: 75px;
+    width: auto;
+    color: white;
+    text-align: center;
+    line-height: 75px;
+    
+}
+
+.cote
+{
+    background-color: blue;
+    color: white;
+    height: 525px;
+    width: 18.75%;
+    text-align: center;
+    line-height: 525px;
+    
+}
+.z
+{
+    background-color: green;
+    color: white;
+    height: 450px;
+    line-height: 450px;
+    width: 19.7%;
+    text-align: center;
+    border: 1px solid white;
+    
+}
+.bas
+{
+    clear: both;
+    background-color: rgb(255, 213, 0);
+    color: white;
+    height: 75px;
+    line-height: 75px;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    
+}
+.cont_princ
+{
+    width: auto;
+    
+}
+
+.cont_centr
+{
+    width: 62.5%;
+    height: 525px;
+}
+
+.sous_cont
+{
+    width: 100%;
+    height: 450px;
+}
+
+.gauche
+{
+    float: left;
+}
+.droite
+{
+    float: right;
+}
